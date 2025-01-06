@@ -2,7 +2,6 @@
     author = "Yu, Yiding and Wang, Taotao and Liew, Soung Chang",
     doi = "10.1109/JSAC.2019.2904329",
     journal = "IEEE Journal on Selected Areas in Communications",
-    keywords = "Media Access Protocol;Throughput;Wireless networks;Neural networks;Time division multiple access;Deep reinforcement learning;heterogeneous wireless networks;medium access control (MAC);α-fairness",
     number = "6",
     pages = "1277-1290",
     title = "{Deep-Reinforcement Learning Multiple Access for Heterogeneous Wireless Networks}",
